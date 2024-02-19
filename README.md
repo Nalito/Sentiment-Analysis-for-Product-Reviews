@@ -34,7 +34,8 @@
 ### Cleaning the review headline column </br>
 <img alt="image" src="https://github.com/Nalito/Sentiment-Analysis-for-Product-Reviews/blob/main/exports/clean.png">
 
-### Word Cloud Visualization
+### Word Cloud Visualization </br>
+<img alt="image" src="https://github.com/Nalito/Sentiment-Analysis-for-Product-Reviews/blob/main/exports/word cloud.png">
 
 ## Text Vectorization
 ### Vectorization using Tfidf Vectorizer </br>
